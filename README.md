@@ -46,7 +46,7 @@ This project applies machine learning techniques to predict passenger survival o
 ## 📂 Repository Structure
 ```
 📁 Titanic-ML-Project
- ├── Titanic_ML_Notebook.ipynb   # Main notebook
+ ├── MLAssignmentDavidEzerzer.ipynb   # Main notebook
  ├── README.md                   # Project Documentation
  ├── titanic3.xls                # Dataset 
 ```
