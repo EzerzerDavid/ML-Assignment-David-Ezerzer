@@ -30,7 +30,7 @@ This project applies machine learning techniques to predict passenger survival o
 
 ## 📈 Model Evaluation
 ### **Validation Performance**
-- **Validation Accuracy**: (Update with actual value)
+- **Validation Accuracy**: 0.8265
 - **Precision, Recall, F1-score** from **Classification Report**.
 
 ### **Key Metrics & Visualizations**
@@ -40,7 +40,7 @@ This project applies machine learning techniques to predict passenger survival o
    - Shows trade-off between Sensitivity (True Positive Rate) and Specificity (False Positive Rate).
    - The **optimal decision threshold** is highlighted to maximize model performance.
 3. **Cross-Validation Results**:
-   - **Mean Cross-Validation Accuracy**: (Update with actual value)
+   - **Mean Cross-Validation Accuracy**: 0.7587
    - Ensures stability across different data splits.
 
 ## 📂 Repository Structure
