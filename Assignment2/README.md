@@ -64,6 +64,30 @@ This project analyzes and models hourly bike-sharing demand using real-world dat
 
 ---
 
+### 🔧 Environment Setup Instructions
+To recreate the environment used in this project:
+
+# Step 1: Clone the repository and navigate into it
+git clone <repository-url>
+cd <repo-folder>
+
+# Step 2: Create a virtual environment (e.g. called 'ml_env')
+python3 -m venv ml_env
+
+# Step 3: Activate the virtual environment
+# macOS / Linux:
+source ml_env/bin/activate
+# Windows:
+ml_env\Scripts\activate
+
+# Step 4: Install all required packages
+pip install -r requirements.txt
+
+# Step 5: Open the notebook
+code .
+
+---
+
 ### 📦 Libraries Used
 
 - Python 3.13  
@@ -80,6 +104,3 @@ This project analyzes and models hourly bike-sharing demand using real-world dat
 - Gradient Boosting outperformed all models after tuning and outlier filtering.
 - XGBoost provided comparable performance and was included for benchmarking.
 
----
-
-L
